@@ -9,12 +9,12 @@ var coords = {};
 var data_ = {};
 
 var backgroundDataDay = [
-    {img_src: '/media/img/bg_2.jpg', color: '#5D576F', textColor: '#342e1f'},
+    {img_src: 'media/img/bg_2.jpg', color: '#5D576F', textColor: '#342e1f'},
 ];
 
 var backgroundDataNight = [
-    {img_src: '/media/img/bg_1.jpg', color: '#f7ac8bad', textColor: '#51597d'},
-    {img_src: '/media/img/bg_3.jpg', color: '#aeb9cead', textColor: '#342e1f'},
+    {img_src: 'media/img/bg_1.jpg', color: '#f7ac8bad', textColor: '#51597d'},
+    {img_src: 'media/img/bg_3.jpg', color: '#aeb9cead', textColor: '#342e1f'},
 ];
 
 var getBackgroundImg = (imgData = [])=>{
