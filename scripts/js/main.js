@@ -1,6 +1,6 @@
 const API_KEY = '&appid=3c890e2eb127beb3199800aea092bd52';
 const OPEN_WEATHER_URI = 'https://api.openweathermap.org/data/2.5/weather';
-const OPEN_WEATHER_ICON_URI = 'http://openweathermap.org/img/wn/';
+const OPEN_WEATHER_ICON_URI = 'https://openweathermap.org/img/wn/';
 const weatherApp = $('.weatherApp');
 const  body = $('body');
 var imgLength;
