@@ -1,4 +1,4 @@
-body{display: flex; justify-content: center; align-items: center; width: 97vw; height: 97vh; background: url("././media/img/bg_1.jpg") no-repeat center fixed; background-size: cover; color: #51597d;}
+body{display: flex; justify-content: center; align-items: center; width: 97vw; height: 97vh; background: url("../media/img/bg_1.jpg") no-repeat center fixed; background-size: cover; color: #51597d;}
 .weatherApp{width:400px; height:400px; background: #f7ac8bad; border-radius: 15px; display: flex; align-items: center; flex-direction: column;}
 .weather{display: flex; flex-direction: column; justify-content: center; align-items: center;}
 .weatherIcon{position: relative; top: 0rem;}
